@@ -1,2 +1,2 @@
 # SampeTest
-This is for learning. Pull check.
+This is for learning. Push Test.
